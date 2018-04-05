@@ -1,2 +1,4 @@
-hello-world
+proclamation = 'hello-world'
+
+print proclamation
 
