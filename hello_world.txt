@@ -1,0 +1,6 @@
+proclamation = 'hello world'
+declaration = 'goodbye world'
+life = proclamation + declaration
+
+print proclamation
+
