@@ -1,5 +1,7 @@
 proclamation = 'hello world'
 declaration = 'goodbye world'
+karim = 123
+life = proclamation + karim
 
 print proclamation
 
